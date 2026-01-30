@@ -1,0 +1,18 @@
+{
+    "url": "https://www.google.com/maps/place/Restoran+Gusar/@43.3236942,21.894321,17z/data=!3m1!4b1!4m6!3m5!1s0x4755b0b5931f9fad:0xe9a0b4a8401b2bd!8m2!3d43.3236942!4d21.8968959!16s%2Fg%2F1yfprryry?entry=ttu&g_ep=EgoyMDI2MDEyNy4wIKXMDSoKLDEwMDc5MjA2OUgBUAM%3D",
+    "name": "Restoran Gusar",
+    "address": "Jadranska 2, Niš",
+    "phone-1": "018514555",
+    "phone-2": "062514555",
+    "email": "info@restorangusar.rs",
+    "openingHours": {
+        "Friday": "10 AM-1 AM",
+        "Saturday": "10 AM-1 AM",
+        "Sunday": "10 AM-12 AM",
+        "Monday": "Closed",
+        "Tuesday": "10 AM-12 AM",
+        "Wednesday": "10 AM-12 AM",
+        "Thursday": "10 AM-12 AM"
+    },
+    "instagram" : "https://www.instagram.com/gusarrestoran/"
+}
